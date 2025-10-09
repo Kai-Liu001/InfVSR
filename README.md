@@ -1,11 +1,8 @@
 # InfVSR: Breaking Length Limits of Generic Video Super-Resolution
 
-[Ziqing Zhang](https://github.com/sjtuzzq), [Kai Liu](https://kai-liu001.github.io/), [Zheng Chen](https://zhengchen1999.github.io), [Xi Li](), [Yucong Chen](https://scholar.google.com/citations?user=BTEsUk8AAAAJ&hl), [Bingnan Duan](https://github.com/Bingnan), [Linghe Kong](https://www.cs.sjtu.edu.cn/~linghe.kong/), [Guihai Chen](https://cs.nju.edu.cn/gchen/index.htm),  and [Yulun Zhang](http://yulunzhang.com/), "InfVSR: Breaking Length Limits of Generic Video Super-Resolution", arXiv, 2025
+[Ziqing Zhang](https://github.com/sjtuzzq), [Kai Liu](https://kai-liu001.github.io/), [Zheng Chen](https://zhengchen1999.github.io), [Xi Li](), [Yucong Chen](https://scholar.google.com/citations?user=BTEsUk8AAAAJ&hl), [Bingnan Duan](https://github.com/Bingnan), [Linghe Kong](https://www.cs.sjtu.edu.cn/~linghe.kong/), and [Yulun Zhang](http://yulunzhang.com/), "InfVSR: Breaking Length Limits of Generic Video Super-Resolution", arXiv, 2025
 
 <div>
-  <a href="https://github.com/Kai-Liu001/InfVSR/releases" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/github/downloads/Kai-Liu001/InfVSR/total?color=green&style=flat">
-  </a>
   <a href="https://github.com/Kai-Liu001/InfVSR" target="_blank" style="text-decoration: none;">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Kai-Liu001/InfVSR">
   </a>
@@ -14,7 +11,7 @@
   </a>
 </div>
 
-[[arXiv]()] [[supplementary material]()] [dataset] [pretrained model]
+[[arXiv](https://arxiv.org/abs/2510.00948)] [[supplementary material](https://github.com/Kai-Liu001/InfVSR/releases/tag/supp)] [dataset] [pretrained model]
 
 
 
@@ -107,11 +104,11 @@ We achieved state-of-the-art performance. Detailed results can be found in the p
 If you find the code helpful in your research or work, please cite the following paper(s).
 
 ```
-@inproceedings{Zhang2025infvsr,
-    title={InfVSR: Breaking Length Limits of Generic Video Super-Resolution},
-    author={Zhang, Ziqing and Liu, Kai and Chen, Zheng and Li, Xi and Chen, Yucong and Duan, Bingnan and Kong, Linghe and Chen, Guihai and Zhang, Yulun},
-    booktitle={arXiv},
-    year={2025}
+@article{zhang2025infvsr,
+  title={InfVSR: Breaking Length Limits of Generic Video Super-Resolution},
+  author={Zhang, Ziqing and Liu, Kai and Chen, Zheng and Li, Xi and Chen, Yucong and Duan, Bingnan and Kong, Linghe and Zhang, Yulun},
+  journal={arXiv preprint arXiv:2510.00948},
+  year={2025}
 }
 ```
 
