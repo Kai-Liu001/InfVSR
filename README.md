@@ -1,6 +1,6 @@
 # InfVSR: Breaking Length Limits of Generic Video Super-Resolution
 
-[Ziqing Zhang](https://github.com/sjtuzzq), [Kai Liu](https://kai-liu001.github.io/), [Zheng Chen](https://zhengchen1999.github.io), [Xi Li](), [Yucong Chen](https://scholar.google.com/citations?user=BTEsUk8AAAAJ&hl), [Bingnan Duan](https://github.com/Bingnan), [Linghe Kong](https://www.cs.sjtu.edu.cn/~linghe.kong/), and [Yulun Zhang](http://yulunzhang.com/), "InfVSR: Breaking Length Limits of Generic Video Super-Resolution", arXiv, 2025
+[Ziqing Zhang](https://github.com/sjtuzzq), [Kai Liu](https://kai-liu001.github.io/), [Zheng Chen](https://zhengchen1999.github.io), [Xi Li](), [Yucong Chen](https://scholar.google.com/citations?user=BTEsUk8AAAAJ&hl), [Bingnan Duan](https://github.com/Bingnan), [Linghe Kong](https://www.cs.sjtu.edu.cn/~linghe.kong/), and [Yulun Zhang](http://yulunzhang.com/), "InfVSR: Breaking Length Limits of Generic Video Super-Resolution", ICML, 2026
 
 <div>
   <a href="https://github.com/Kai-Liu001/InfVSR" target="_blank" style="text-decoration: none;">
@@ -17,6 +17,7 @@
 
 #### 🔥🔥🔥 News
 
+- **2026-05-01:** InfVSR is accepted by ICML 26! ⭐️⭐️⭐️
 - **2025-09-25:** This repo is released. ⭐️⭐️⭐️
 
 ---
