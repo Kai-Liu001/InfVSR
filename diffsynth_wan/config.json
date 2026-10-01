@@ -1,0 +1,22 @@
+{
+  "architecture": "InfVSR WanModel",
+  "weight_format": "pytorch_state_dict",
+  "weight_dtype": "bfloat16",
+  "model_config": {
+    "dim": 1536,
+    "in_dim": 16,
+    "ffn_dim": 8960,
+    "out_dim": 16,
+    "text_dim": 512,
+    "freq_dim": 256,
+    "eps": 1e-06,
+    "patch_size": [
+      1,
+      2,
+      2
+    ],
+    "num_heads": 12,
+    "num_layers": 30,
+    "has_image_input": false
+  }
+}

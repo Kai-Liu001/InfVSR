@@ -1,0 +1,8 @@
+torch>=2.2
+torchvision
+numpy
+einops
+imageio
+imageio-ffmpeg
+timm>=1.0
+scenedetect[opencv]==0.6.7.1
